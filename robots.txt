@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aziehooze.dojoit.pl/sitemap.xml
